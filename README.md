@@ -1,2 +1,2 @@
-# C#-Denemelerim
-C#- Windows Froms -Denemelerim
+# C#- Windows Forms -Denemelerim
+C#- Windows Forms -Denemelerim
