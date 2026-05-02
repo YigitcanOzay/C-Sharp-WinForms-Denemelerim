@@ -1,2 +1,2 @@
-# C#- Windows Forms -Denemelerim
-C#- Windows Forms -Denemelerim
+# C#- Windows Forms -WinLab
+C#- Windows Forms -WinLab
